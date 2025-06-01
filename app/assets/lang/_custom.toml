@@ -11,10 +11,10 @@ mediaYouTubeURL = "#"
 mediaDiscordURL = "https://discord.gg/gracidea"
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/dscalZi/HeliosLauncher"
-supportLink = "https://github.com/dscalZi/HeliosLauncher/issues"
+sourceGithubLink = "https://github.com/gracidea-server"
+supportLink = "https://discrod.gg/gracidea"
 
 [ejs.welcome]
 welcomeHeader = "그라시데아 서버"
-welcomeDescription = "2020년부터 픽셀몬 서버로 시작한 그라시데아 서버입니다! 언제나 한결같은 마음으로 유저 여러분들을 환영합니다!"
-welcomeDescCTA = "그라시데아 서버를 플레이허는 유저를 위한 서버가 되겠습니다!"
+welcomeDescription = "2020년부터 픽셀몬 서버로 시작한 그라시데아 서버입니다!"
+welcomeDescCTA = "언제나 환영합니다!"

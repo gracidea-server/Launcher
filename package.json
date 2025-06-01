@@ -1,10 +1,10 @@
 {
-  "name": "helioslauncher",
+  "name": "gracidealauncher",
   "version": "2.2.1",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
-  "license": "UNLICENSED",
+  "productName": "Gracidea Launcher",
+  "description": "Gracidea Minecraft Launcher",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/), Asa",
+  "license": "MIT",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
     "url": "https://github.com/dscalzi/HeliosLauncher/issues"
